@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-corporate-relationship
+description: "BIAN Service Domain: Corporate Relationship (Manage pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Corporate Relationship"
+  bian/control-record: "Corporate Relationship Management Plan"
